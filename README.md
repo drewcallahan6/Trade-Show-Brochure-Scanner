@@ -8,19 +8,19 @@ Problem:
 
 When engineers in the Griffith Foods Engineering Department visit trade shows, they naturally return with an abundance of brochures detailing various machinery, systems, and vendors.  With the recent advent of an internal, cloud-based database, the Engineering Department was seeking the documentation of these brochures on that database.  A ubiquitous format was established to make user interface more easily accessible.  The format is exampled below.
 
-TITLE:
+*TITLE:
+*
+*Known Locations Used:
+*
+*Purpose:
+*
+*Key Selection Criteria:
+*	-Point 1
+*	-Point 2
+*
+*Vendor:
 
-Known Locations Used:
-
-Purpose:
-
-Key Selection Criteria:
-	-Point 1
-	-Point 2
-
-Vendor:
-
-However, there is still the arduous task of documenting these brochures into this unique format. 
+However, there is still the lengthy task of documenting these brochures into this unique format. 
 
 Solution:
 
